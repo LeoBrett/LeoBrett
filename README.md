@@ -1,7 +1,6 @@
 -Hi, I’m @LeoBrett
 -I’m interested in embedded systems, wireless communications, and signal processing
--I’m currently learning ... image and audio processing
--I’m looking to collaborate on projects related to any of three stated interests
+-I’m currently learning/working on audio processing and learning
 -How to reach me ... @leojbrett@gmail.com
 
 <!---
