@@ -1,6 +1,6 @@
 -Hi, I’m @LeoBrett
 
--I’m interested in embedded systems, wireless communications, and signal processing
+-I’m interested in embedded systems and signal processing
 
 -I’m currently learning/working on audio processing and learning
 
