@@ -2,7 +2,7 @@
 
 -I’m interested in embedded systems and signal processing
 
--I’m currently learning/working on audio processing and learning
+-I’m currently working on audio processing and learning
 
 -How to reach me ... @leojbrett@gmail.com
 
